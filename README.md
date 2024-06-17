@@ -1,2 +1,2 @@
-# pawanneupane.github.io
+# pawanneupane
 This my Personal Portfolio Website!
